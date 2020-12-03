@@ -1,0 +1,19 @@
+﻿  client.cpp
+C:\Users\eva\source\repos\client\client.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eva\source\repos\client\client.cpp(49,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(81,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(86,42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(108,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(125,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(128,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(135,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(164,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(169,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(191,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(194,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(201,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(205,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\client\client.cpp(211,23): warning C4018: <: несоответствие типов со знаком и без знака
+  client.vcxproj -> C:\Users\eva\source\repos\client\Debug\client.exe

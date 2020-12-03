@@ -1,0 +1,13 @@
+﻿  server.cpp
+C:\Users\eva\source\repos\server\server.cpp(55,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eva\source\repos\server\server.cpp(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(113,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(118,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(146,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(166,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(183,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(186,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(202,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eva\source\repos\server\server.cpp(218,22): warning C4018: <: несоответствие типов со знаком и без знака
+  server.vcxproj -> C:\Users\eva\source\repos\server\Debug\server.exe
